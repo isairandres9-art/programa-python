@@ -1,4 +1,6 @@
-Nombre del estudiante: Isair Andres Acosta De La Vega
-Grupo: 213022A_2201
-Formación: Ingieneria en sistemas
-Problema selecionado: PROBLEMA 3 - stock e inventarios
+# FASE 5 EVALUACION FINAL
+## 📝 Información del Estudiante
+* *Nombre del Estudiante:* [SU NOMBRE ]
+* *Grupo Académico:* [213022_+ SU CODIGO ]
+* *Programa Académico:* [Ingeniería de Sistemas]
+* *Problema Seleccionado:* Problema 1 - Y TITULO DEL PROBLEMA 
